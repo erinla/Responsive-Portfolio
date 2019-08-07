@@ -4,10 +4,6 @@
     
 }
 
-span {
-    position: absolute;
-    padding: 60px;
-}
 .content-area {
     width: 960px;
     margin: auto;
@@ -50,15 +46,26 @@ nav {
 .linkedin {
     width: 60px;
     height: 55px;
+    padding-left: 20px;
 }
 
 .github {
     width: 60px;
     height: 55px;
+    padding-left: 20px;
 }
 
 span {
-    color: black;
+    color: darkslategray;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    position: absolute;
+    padding: 35px;
+}
+
+.contacttext {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: darkslategray;
+    padding-left: 20px;
 }
 
 .primary-nav {
