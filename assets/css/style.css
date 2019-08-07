@@ -4,6 +4,10 @@
     
 }
 
+span {
+    position: absolute;
+    padding: 60px;
+}
 .content-area {
     width: 960px;
     margin: auto;
@@ -41,6 +45,20 @@
 nav {
     height: 90px;
     line-height:90px;
+}
+
+.linkedin {
+    width: 60px;
+    height: 55px;
+}
+
+.github {
+    width: 60px;
+    height: 55px;
+}
+
+span {
+    color: black;
 }
 
 .primary-nav {
@@ -179,7 +197,7 @@ h4 {
     text-align: center;
     padding: 10px 0px;
     color: #ffffff;
-    margin-top: 30px;
+    margin-top: 50px;
     border-top: 6px solid #4aaaa5;
     z-index: 500;
 }
