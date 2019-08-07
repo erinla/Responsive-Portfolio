@@ -56,7 +56,7 @@ nav {
 }
 
 span {
-    color: darkslategray;
+    color: #777777;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     position: absolute;
     padding: 35px;
@@ -64,7 +64,7 @@ span {
 
 .contacttext {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    color: darkslategray;
+    color: #777777;
     padding-left: 20px;
 }
 
