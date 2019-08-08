@@ -44,9 +44,11 @@ nav {
 }
 
 .linkedin {
-    width: 60px;
-    height: 55px;
+    width: 105px;
+    height: 95px;
     padding-left: 20px;
+    position: fixed;
+    margin-top: -15px;
 }
 
 .github {
