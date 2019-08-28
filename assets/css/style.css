@@ -23,7 +23,7 @@ body {
 }
 
 .logo {
-    height: 50px;
+    height: 40px;
     background-color: #4aaaa5;
     float: left; 
     padding: 10px 30px;
@@ -32,9 +32,6 @@ body {
     margin-left: 214px;
 }
 
-/* .logo:hover {
-    background: rgb(228, 179, 187);
-} */
 
 .logo > a {
     font-size: 30px;
@@ -51,11 +48,21 @@ nav {
     height: 95px;
     padding-left: 20px;
     padding-top: 5%;
+    transition: transform .2s;
 }
+
+/* .linkedin:hover {
+    transform: scale(1.2);
+} */
 
 .github {
     width: 60px;
     height: 55px;
+    transition: transform .2s;
+}
+
+.github:hover {
+    transform: scale(1.2);
 }
 
 span {
